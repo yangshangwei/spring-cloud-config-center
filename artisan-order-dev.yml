@@ -24,4 +24,4 @@ spring:
 #       defaultZone: http://localhost:8762/eureka/
 #ENV
 env:
-  dev2-artisan-changetest
+  dev2-artisan-changetest1
