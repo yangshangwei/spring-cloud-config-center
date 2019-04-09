@@ -24,4 +24,4 @@ spring:
 #       defaultZone: http://localhost:8762/eureka/
 #ENV
 env:
-  dev
+  dev-change
