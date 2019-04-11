@@ -25,3 +25,7 @@ spring:
 #ENV
 env:
   dev2-artisan-changfortest2
+
+customized:
+  apiUrl:http://www.baidu.com
+  apiCode:BAIDU
