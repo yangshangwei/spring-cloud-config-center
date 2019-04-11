@@ -25,7 +25,7 @@ spring:
 #ENV
 env:
   dev2-artisan-changfortest2
-
+# 演示@RefreshScope用
 customized:
   apiUrl:http://www.baidu.com
   apiCode:BAIDU
