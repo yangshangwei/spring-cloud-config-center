@@ -28,4 +28,4 @@ env:
 # 演示@RefreshScope用
 customized:
   apiUrl: http://www.baidu.com
-  apiCode: BAIDU
+  apiCode: BAIDU2
