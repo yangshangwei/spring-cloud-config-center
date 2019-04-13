@@ -7,6 +7,7 @@ spring:
     password: root
   rabbitmq:
     host: 192.168.31.34
+    port: 5672
     username: guest
     password: guest
   # jpa 输出sql
