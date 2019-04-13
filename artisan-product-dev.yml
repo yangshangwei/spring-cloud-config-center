@@ -5,7 +5,7 @@ spring:
     url: jdbc:mysql://localhost:3306/o2o?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=false
     username: root
     password: root
-   rabbitmq:
+  rabbitmq:
     host: 192.168.31.34
     username: guest
     password: guest
